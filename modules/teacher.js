@@ -242,10 +242,6 @@ export function renderTeacherDashboard(container, activeTab = 'teacher') {
                 <label class="form-label">ประเภทวิชา</label>
                 <select class="form-input" id="newTaskType">
                   <option>📖 การอ่าน</option>
-                  <option>🔢 คณิตศาสตร์</option>
-                  <option>🧠 การฝึกทักษะ</option>
-                  <option>✏️ การเขียน</option>
-                  <option>🎨 ความคิดสร้างสรรค์</option>
                 </select>
               </div>
               <div class="form-group">
